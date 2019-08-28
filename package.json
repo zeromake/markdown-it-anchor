@@ -1,0 +1,29 @@
+{
+  "name": "markdown-it-anchor",
+  "version": "0.1.0",
+  "description": "markdown-it support anchor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeromake/markdown-it-anchor.git"
+  },
+  "keywords": [
+    "makrdown-it"
+  ],
+  "author": "zeromake <a390720046@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeromake/markdown-it-anchor/issues"
+  },
+  "homepage": "https://github.com/zeromake/markdown-it-anchor#readme",
+  "dependencies": {
+    "hexo-util": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "markdown-it": "^9.1.0"
+  }
+}
